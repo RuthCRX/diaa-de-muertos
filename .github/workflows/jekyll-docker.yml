@@ -1,0 +1,141 @@
+<HTML>
+
+<head></title>
+  <style>
+  
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            background-color: #111;
+            padding: 20px;
+            border-bottom: 4px solid #f1f1f1;
+        }
+
+        header img {
+            width: 80%;
+            max-height: 300px;
+            object-fit: cover;
+            border-radius: 15px;
+        }
+
+        h1 {
+            color: #ffcc00;
+            margin-top: 20px;
+            font-size: 2.5em;
+        }
+
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+            line-height: 1.6;
+        }
+
+        h2 {
+            color: #ff9900;
+            border-left: 5px solid #fafafa;
+            padding-left: 10px;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style-type: square;
+            padding-left: 40px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+            max-width: 60%;
+        }
+
+        footer {
+            background-color: #4b0082;
+            text-align: center;
+            padding: 15px;
+            color: #fff;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+  </style>
+</head>
+
+<body>
+    <header>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLYEwN6E3VpOaPmrLBqaTuTmRmgdUq_TkKxW6_34A-VGERqfcoWZuXo5-dZUsSEQFLkAXMDC8y44txVQ-jnAJATngj1ChNQiytpUO4up_kE4Uca4IldD4vuQvTxRjDA9RPs6KxhbtxL8/s1773/portadas_gratis_para_dia_de_muertos+%25286%2529.jpg" alt="Día de Muertos">
+        <h1>Tradiciones Mexicanas: Día de Muertos</h1>
+    </header>
+
+    <section>
+        <h2>El Día de Muertos</h2>
+        <p>
+            El <strong>Día de Muertos</strong> es una de las tradiciones más representativas de México. Se celebra los días 
+            <strong>1 y 2 de noviembre</strong> y es una festividad en la que las familias recuerdan y honran a sus seres queridos 
+            que han fallecido. Durante estas fechas, se colocan <em>altares</em> decorados con flores de cempasúchil, velas, 
+            fotografías, papel picado y alimentos favoritos de los difuntos.
+        </p>
+        <p>
+            Esta tradición tiene raíces indígenas mezcladas con creencias católicas, creando una fusión cultural única 
+            que celebra la vida y la muerte con respeto y alegría.
+        </p>
+
+        <ul>
+            <li><strong>Agua:</strong> Representa la vida y se coloca para calmar la sed de las almas tras su largo viaje.</li>
+            <li><strong>Sal:</strong> Es un elemento purificador que evita que el alma se corrompa en su camino.</li>
+            <li><strong>Velas y veladoras:</strong> Simbolizan la luz y el fuego que guían a las almas en la oscuridad.</li>
+            <li><strong>Papel picado:</strong> Representa el aire y el viento, y su movimiento anuncia la llegada de los difuntos.</li>
+            <li><strong>Cempasúchil:</strong> Su color y aroma atraen y guían a las almas. Se utilizan pétalos para formar caminos.</li>
+            <li><strong>Calaveritas de azúcar:</strong> Dulces que aluden a la muerte de forma lúdica, con el nombre del difunto.</li>
+            <li><strong>Pan de muerto:</strong> Pan dulce especial que simboliza la fraternidad hacia los difuntos.</li>
+            <li><strong>Fotografía del difunto:</strong> Indica a quién se dedica la ofrenda.</li>
+            <li><strong>Comida y bebida:</strong> Se colocan los platillos favoritos del difunto para su visita.</li>
+            <li><strong>Copal e incienso:</strong> Purifican el ambiente y alejan los malos espíritus.</li>
+            <li><strong>Objetos personales:</strong> Pertenencias del difunto para que se sienta en casa.</li>
+            <li><strong>Niveles del altar:</strong> Representan el cielo, la tierra y el inframundo.</li>
+        </ul>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Altardediademuertos.jpg/250px-Altardediademuertos.jpg" alt="Altar de Día de Muertos">
+    </section>
+
+    <section>
+        <h2>Origen de La Catrina</h2>
+        <p>
+            El Día de Muertos es una celebración mexicana que honra y recuerda a los seres queridos fallecidos el 1 y 2 de noviembre, combinando tradiciones prehispánicas y católicas. Durante estos días, las familias crean altares, visitan cementerios y creen que las almas regresan para estar cerca de sus familiares. Esta festividad se caracteriza por su visión de la muerte como una presencia viva, no como una ausencia.
+        </p>
+        <p>
+            Más tarde, el pintor <strong>Diego Rivera</strong> la incluyó en su mural <em>"Sueño de una tarde dominical en la Alameda Central"</em>, 
+            dándole el nombre con el que hoy la conocemos: <strong>La Catrina</strong>. Con su elegante sombrero y vestido, 
+            representa la idea de que la muerte llega para todos, sin importar el estatus social.
+        </p>
+
+        <ul>
+            <li><strong>Origen:</strong> José Guadalupe Posada.</li>
+            <li><strong>Nombre original:</strong> “La Calavera Garbancera”.</li>
+            <li><strong>Propósito:</strong> Crítica social hacia quienes renegaban de su herencia indígena.</li>
+            <li><strong>Característica:</strong> En su versión original, solo portaba un sombrero.</li>
+            <li><strong>Evolución:</strong> Apareció junto a las “calaveras literarias” en periódicos.</li>
+        </ul>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNnc7Tb0eKrq5s34r4XzrGd_3yv8HHTQgyw&s">
+    </section>
+
+    
+</body>
+</html>
+
